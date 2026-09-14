@@ -1,21 +1,5 @@
 # Problem Statement
 
-## Background
+Ports frequently experience unpredictable berth congestion. Ships arrive without knowing whether a berth will be free, leading to long waiting times, wasted fuel, delayed cargo unloading, and higher operational costs for shipping companies and port authorities. Currently, port operators rely on manual tracking and past experience rather than data-driven forecasting, making it hard to react proactively.
 
-[Describe the broader context. What domain or industry does this problem belong to? What situation creates the problem?]
-
-## The Problem
-
-[State the problem clearly and specifically. Avoid vague statements like "things are slow" — instead say "Operations teams spend an average of 45 minutes per incident diagnosing pipeline failures because logs are scattered across 6 different tools."]
-
-## Who is Affected
-
-[Describe the specific user or persona experiencing this problem. Be concrete — not "developers" but "backend engineers managing CI/CD pipelines in enterprises with 50+ microservices."]
-
-## Why It Matters
-
-[What is the cost of this problem? Lost time? Revenue? Safety risk? Frustration? Quantify if possible.]
-
-## Why Existing Solutions Fall Short
-
-[Briefly explain what people currently do and why it doesn't fully solve the problem. This sets up why your solution is needed.]
+Our project targets port operators and logistics coordinators who need early visibility into which berths are likely to become congested, so they can reroute ships, adjust schedules, or allocate resources before congestion actually happens.
