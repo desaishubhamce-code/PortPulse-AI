@@ -1,0 +1,21 @@
+ship_name,arrival_time,berth_assigned,cargo_type,expected_unload_hours,current_queue_position
+MV Albatross,2024-06-01 04:15,B3,Containers,18,1
+MV Iron Horizon,2024-06-01 05:30,B1,Bulk Grain,24,2
+MV Stellarwind,2024-06-01 06:00,B5,Crude Oil,36,3
+MV Pacific Crown,2024-06-01 06:45,B2,Containers,12,4
+MV Northern Star,2024-06-01 07:20,B4,LNG,48,5
+MV Crestbreaker,2024-06-01 08:00,B1,Bulk Coal,30,6
+MV Jade Merchant,2024-06-01 08:30,B3,Refrigerated,10,7
+MV Titan Voyager,2024-06-01 09:10,B6,Containers,22,8
+MV Silver Seas,2024-06-01 09:45,B2,Vehicles (RoRo),14,9
+MV Harborlight,2024-06-01 10:00,B5,Crude Oil,40,10
+MV Redwood Bay,2024-06-01 10:30,B4,Bulk Grain,26,11
+MV Orinoco,2024-06-01 11:15,B1,Containers,16,12
+MV Stormchaser,2024-06-01 11:45,B7,Chemicals,20,13
+MV Blue Meridian,2024-06-01 12:00,B3,Containers,18,14
+MV Solaris,2024-06-01 12:30,B6,LNG,44,15
+MV Amber Cape,2024-06-01 13:00,B2,Vehicles (RoRo),12,16
+MV Tungsten Pride,2024-06-01 13:45,B4,Bulk Coal,34,17
+MV Neptuna,2024-06-01 14:20,B7,Refrigerated,8,18
+MV Coastrunner,2024-06-01 15:00,B5,Chemicals,22,19
+MV Vanguard Spirit,2024-06-01 15:30,B1,Containers,20,20
