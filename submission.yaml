@@ -13,6 +13,6 @@ tech_stack:
   - Python
   - Pandas
   - Streamlit
-demo_video_link: "TODO: add after recording"
+demo_video_link: "https://drive.google.com/file/d/19SkdH70a9ZB2dnWYFGnK4aayCTERaole/view?usp=sharing"
 repo_link: "https://github.com/desaishubhamce-code/PortPulse-AI.git"
 description: "A tool that predicts port berth congestion using ship arrival, cargo, and queue data, and visualizes utilization and risk alerts through an interactive dashboard."
